@@ -57,14 +57,21 @@ This project analyzes higher education trends across Maharashtra using Power BI.
     Enhancing communication with visual presentations and summaries
 
 🎓 Internship Details
+    
     Organization: Soulvibe.Tech
+    
     Role: Data Analyst Intern
+   
     Batch: Internship Batch 10
+    
     Title: Higher Education Course Analysis – Power BI
 
 🙌 Author
+    
     Prasanna Laxmi Kolli  
+    
     Data Analyst Intern
+    
     LinkedIn Profile :[www.linkedin.com/in/prasanna-kolli](https://www.linkedin.com/in/prasanna-kolli)
 
 
