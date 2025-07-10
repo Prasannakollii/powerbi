@@ -55,6 +55,7 @@ This project analyzes higher education trends across Maharashtra using Power BI.
     Building dynamic reports with DAX and slicers
     Converting raw academic data into visual decision tools
     Enhancing communication with visual presentations and summaries
+
 🎓 Internship Details
     Organization: Soulvibe.Tech
     Role: Data Analyst Intern
