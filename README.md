@@ -50,6 +50,7 @@ This project analyzes higher education trends across Maharashtra using Power BI.
     Duration Category: Short (<12), Medium (12–36), Long (>36 months)
 
 🧠 Key Learnings
+    
     Data cleaning with Power Query
     Designing stakeholder-ready dashboards
     Building dynamic reports with DAX and slicers
@@ -59,19 +60,14 @@ This project analyzes higher education trends across Maharashtra using Power BI.
 🎓 Internship Details
     
     Organization: Soulvibe.Tech
-    
     Role: Data Analyst Intern
-   
     Batch: Internship Batch 10
-    
     Title: Higher Education Course Analysis – Power BI
 
 🙌 Author
     
     Prasanna Laxmi Kolli  
-    
     Data Analyst Intern
-    
     LinkedIn Profile :[www.linkedin.com/in/prasanna-kolli](https://www.linkedin.com/in/prasanna-kolli)
 
 
