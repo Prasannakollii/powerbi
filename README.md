@@ -61,6 +61,7 @@ This project analyzes higher education trends across Maharashtra using Power BI.
     Role: Data Analyst Intern
     Batch: Internship Batch 10
     Title: Higher Education Course Analysis – Power BI
+
 🙌 Author
     Prasanna Laxmi Kolli  
     Data Analyst Intern
